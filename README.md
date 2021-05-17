@@ -1,6 +1,6 @@
 ### Spotify Playing 🎧
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mrlooci)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mrlooci )
 
 ---
 
