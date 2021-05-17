@@ -1,4 +1,4 @@
-<p align="center" font-size:40px>
+<p align="center" font-size:40>
 ### Scrobbles 🎧
 </p>
 
