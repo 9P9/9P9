@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-4/836974838350479402.png">
+    <img src="dsc.bio/9p9">
 </p>
 
 ---
