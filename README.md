@@ -1,6 +1,7 @@
 ### Scrobbles 🎧
-
+<p align="center">
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mrlooci )
+</p>
 
 ---
 
