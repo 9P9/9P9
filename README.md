@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://9P9.github.io/profile/">Luci</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="25px"> , I'm <a href="https://9P9.github.io/profile/">Luci</a></h2>
 <p align="center">
   <a href="https://discord.gg/x2rntxtBpF">Community Discord Server</a> •
   <a href="https://discord.gg/SJyU6VkHen">Coding Discord</a> •
