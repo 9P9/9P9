@@ -1,3 +1,11 @@
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://9P9.github.io/profile/">Luci</a></h2>
+<p align="center">
+  <a href="https://discord.gg/x2rntxtBpF">Community Discord Server</a> •
+  <a href="https://discord.gg/SJyU6VkHen">Coding Discord</a> •
+</p>
+
+---
+
 <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
  
@@ -9,7 +17,7 @@
 </p>
 
 ---
-
+<p align="center">
 ### Scrobbles 🎧
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mrlooci )
@@ -21,3 +29,8 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
 ---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/9P9/count.svg" />
+</p>
