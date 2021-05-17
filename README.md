@@ -1,4 +1,6 @@
+<p align="center">
 ### Scrobbles 🎧
+</p>
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mrlooci )
 
