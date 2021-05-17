@@ -12,11 +12,13 @@
 
 <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-</center>
-
+ 
 <p align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=9P9&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p></p>
-</center>
+  <img src="https://github-readme-stats.vercel.app/api?username=9P9&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9P9&layout=compact&theme=dark" alt="top-langs" />
+</p>
 
 ---
 
