@@ -17,7 +17,7 @@
 </p>
 
 ---
-<p align="center">
+
 ### Scrobbles 🎧
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=mrlooci )
